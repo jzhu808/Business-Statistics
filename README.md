@@ -5,6 +5,6 @@ course will be very hands on and practical, working with real world data. We wil
 descriptive statistics like (mean/variance) up though hypothesis testing and modeling. The tools and
 techniques in the class will be fundamental to all following classes.
 
-# Awesome README [![Awesome](https://github.com/jzhu808/images/blob/master/JZ.JPG)](https://github.com/jzhu808/images/blob/master)
+# Awesome README [![Awesome](https://github.com/jzhu808/images/blob/master/JZ.JPG)](https://github.com/jzhu808)
 > A curated list of awesome READMEs
 
