@@ -21,4 +21,4 @@ techniques in the class will be fundamental to all following classes.
   Data Used: [GBS_MBA2.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/GBS_MBA2.xls)
 - [Project 2](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/ISOM%20670%20BS%20Group%20Assignment%202.pdf) - Build a regression model to find out the variables that are affecting attendance at Fernbank Natural History Museum
   > Tools Used: RStudio  
-  Data Used: [GBS_MBA2.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/GBS_MBA2.xls)
+  Data Used: [Fernbank data set.xlsx](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Fernbank%20data%20set.xlsx)
