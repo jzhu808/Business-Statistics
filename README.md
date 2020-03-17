@@ -12,3 +12,7 @@ techniques in the class will be fundamental to all following classes.
   > Data Used: [SeaWatch C.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
 - [Assignment 2](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Final%20Quiz.pdf) - Descriptive statistics, histogram and regression model
   > Data Used: [housedata.xlsx](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/housedata.xlsx)
+
+### Group Projects
+- [Project 1](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Individual%20Regression%20Problem.pdf) - Find the relationship between weight and height of MBA students at Goizueta Business School
+  > Data Used: [GBS_MBA2.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/GBS_MBA2.xls)
