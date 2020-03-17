@@ -8,4 +8,4 @@ techniques in the class will be fundamental to all following classes.
 # Awesome README [![Awesome](https://githubjiezhu.s3.amazonaws.com/JZ.JPG)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome READMEs
 
-# Awesome README [![Awesome](/images/JZ.JPG?raw=true)]
+# Awesome README [![Awesome](images/JZ.JPG)]
