@@ -9,4 +9,4 @@ techniques in the class will be fundamental to all following classes.
 
 ### Individual Assignments
 - [ai/size-limit](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/ISOM%20670%20BS%20Group%20Assignment%201.pdf) - Project logo, clear description, screenshot, step-by-step installing instructions.
-  > Data Used: [SeaWatchC.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
+  > Data Used: [SeaWatch C.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
