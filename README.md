@@ -14,5 +14,5 @@ techniques in the class will be fundamental to all following classes.
   > Data Used: [housedata.xlsx](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/housedata.xlsx)
 
 ### Group Projects
-- [Project 1](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Individual%20Regression%20Problem.pdf) - Find the relationship between weight and height of MBA students at Goizueta Business School
+- [Project 1](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/ISOM%20670%20BS%20Group%20Assignment%201.pdf) - Find the relationship between weight and height of MBA students at Goizueta Business School
   > Data Used: [GBS_MBA2.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/GBS_MBA2.xls)
