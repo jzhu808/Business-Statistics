@@ -1,4 +1,4 @@
-<img src="https://github.com/jzhu808/images/blob/master/JZ.JPG" align="right" width="200" />
+<img src="https://github.com/jzhu808/images/blob/master/JZ.JPG" align="right" />
 
 # ISOM 670: Business Statistics
 > This course is a refresher and a new look at how statistical methods begin the process of understanding
