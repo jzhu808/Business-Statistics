@@ -9,7 +9,8 @@ techniques in the class will be fundamental to all following classes.
 
 ### Individual Assignments
 - [Assignment 1](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Individual%20Regression%20Problem.pdf) - Linear regression and confidence interval
-  > Tools Used: RStudio \n Data Used: [SeaWatch C.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
+  > Tools Used: RStudio  
+  Data Used: [SeaWatch C.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
 - [Assignment 2](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Final%20Quiz.pdf) - Descriptive statistics, histogram and regression model
   > Tools Used: RStudio
   > Data Used: [housedata.xlsx](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/housedata.xlsx)
