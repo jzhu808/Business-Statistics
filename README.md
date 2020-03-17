@@ -9,3 +9,4 @@ techniques in the class will be fundamental to all following classes.
 > A curated list of awesome READMEs
 
 # Awesome README [![This](../images/JZ.JPG)]
+![this screenshot](../images/JZ.jpg)
