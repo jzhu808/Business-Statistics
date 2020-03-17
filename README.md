@@ -8,5 +8,5 @@ descriptive statistics like (mean/variance) up though hypothesis testing and mod
 techniques in the class will be fundamental to all following classes.
 
 ### Individual Assignments
-- [Assignment 1: Linear Regression & Confidence Interval](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/ISOM%20670%20BS%20Group%20Assignment%201.pdf) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [Assignment 1](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Business%20Statistics%20Individual%20Regression%20Problem.pdf) - Linear regression and confidence interval
   > Data Used: [SeaWatch C.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
