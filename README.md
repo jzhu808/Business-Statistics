@@ -32,5 +32,5 @@ techniques in the class will be fundamental to all following classes.
   Data Used: [SeaWatch C data.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
 
 - [Project 4](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/ISOM%20670%20BS%20Group%20Assignment%204.pdf) - Build a forecasting model to predict gross fundraising amount for 4 different scenarios and decide which approach is the best
-  > Tools Used: RStudio, RapidMiner
+  > Tools Used: RStudio, RapidMiner  
   Data Used: [SeaWatch D data.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20D%20data.xls)
