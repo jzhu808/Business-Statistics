@@ -30,5 +30,4 @@ techniques in the class will be fundamental to all following classes.
 - [Project 3](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/ISOM%20670%20BS%20Group%20Assignment%203.pdf) - Analyze the variables that are affecting Sea Watch's gross fundraising amount in Northeastern US and suggest satellite location selection criteria for new office sites
   > Tools Used: RStudio  
   Data Used: [SeaWatch C data.xls](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/SeaWatch%20C%20data.xls)
-  > Tools Used: RStudio  
-  Data Used: [Fernbank data set.xlsx](https://github.com/jzhu808/ISOM-670-Business-Statistics/blob/master/Fernbank%20data%20set.xlsx)
+
